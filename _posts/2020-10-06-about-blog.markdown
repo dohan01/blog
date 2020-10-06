@@ -3,7 +3,6 @@ layout: post
 title:  "블로그 소개"
 description: 블로그를 소개합니다!!
 date:   2020-10-06 17:00:00 +0900
-categories: Python Lecture
 ---
 
 블로그를 소개합니다!!

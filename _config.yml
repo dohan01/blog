@@ -14,7 +14,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Kwon.Dohan
-  tagline: Developer: Program
+  tagline: Developer | Programer | Designer
   date_format: "%Y.%b-%-d"
   style: black
   showNav: true

@@ -1,0 +1,44 @@
+title: Dev.KwonDohan Blog
+author: Kwon.Dohan
+email: andong_kdh@naver.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Kwon.Dohan's Dev Blog
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: Kwon.Dohan
+  tagline: Developer: Program
+  date_format: "%Y.%b-%-d"
+  style: black
+  showNav: true
+  showPicker: false
+  navigation:
+    - title: About Me
+      url: "http://www.kdh0604.kro.kr/"
+    - title: Blog
+      url: "/"
+
+  # generate social links in footer
+  social_links:
+    github:  thelehhman
+    rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed

@@ -17,13 +17,8 @@ texture:
   tagline: Developer | Programer | Designer
   date_format: "%Y.%b-%-d"
   style: black
-  showNav: true
+  showNav: false
   showPicker: false
-  navigation:
-    - title: Dev Blog
-      url: "/"
-    - title: About Me
-      url: "http://www.kdh0604.kro.kr/"
  
 
 # If you want to link only specific pages in your header, uncomment

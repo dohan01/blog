@@ -21,6 +21,7 @@ texture:
   showPicker: false
  
   social_links:
+    user: 
     github: white-HAK
     facebook:  thelehhman
     rss: rss

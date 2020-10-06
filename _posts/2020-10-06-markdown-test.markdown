@@ -62,16 +62,14 @@ _이탤릭체(기울리기)_
 
 ![이미지](https://media.vlpt.us/post-images/ilcm96/73676c70-2dc0-11ea-a214-271b3c6426f1/jekyll-logo.png "지킬로고")
 
-<img src="https://media.vlpt.us/post-images/ilcm96/73676c70-2dc0-11ea-a214-271b3c6426f1/jekyll-logo.png" width=50%>
-
 [![이미지](https://media.vlpt.us/post-images/ilcm96/73676c70-2dc0-11ea-a214-271b3c6426f1/jekyll-logo.png)](https://jekyllrb-ko.github.io/)
 
 ---
 
-|      | 수학 | 평과         |
-| :--- | ---- | ------------ |
-| 철수 | 90   | 참 잘했어요! |
-| 영희 | 50   | 분발하세요.  |
+|                  | 수학                        | 평가              |  
+|:--- | ---: | :---: |  
+| 철수             | 90            | 참잘했어요. |  
+| 영희           | 50            | 분발하세요. |
 
 ---
 

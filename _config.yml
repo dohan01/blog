@@ -21,6 +21,7 @@ texture:
   showPicker: false
  
   social_links:
+    blog: http://www.kdhblog.kro.kr/
     mail: andong_kdh@naver.com
     github: white-HAK
     rss: rss

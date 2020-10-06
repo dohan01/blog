@@ -2,7 +2,15 @@
 @import 'ext/normalize';
 @import 'begin';
 @import 'syntax';
-@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+@font-face {
+  font-family: '서울남산체';
+  src: url('../font/서울남산 장체B.eot?26793073');
+  src: url('../font/서울남산 장체B.eot?26793073#iefix') format('embedded-opentype'),
+       url('../font/서울남산 장체B.woff?26793073') format('woff'),
+       url('../font/서울남산 장체B.ttf?26793073') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 $linkColor: #999;
 $mobileW: 768px;
@@ -18,7 +26,7 @@ $lightGray: #eee;
 }
 
 body {
-	font-family: 'Do Hyeon', sans-serif;
+	font-family: '서울남산체', sans-serif;
 	@include fluidType(16px, 19px);
 	line-height: 1.55em;
 	margin: 0;

@@ -23,7 +23,7 @@ texture:
     - title: About Me
       url: "http://www.kdh0604.kro.kr/"
     - title: Dev Blog
-      url: "/#"
+      url: "/"
  
 
 # If you want to link only specific pages in your header, uncomment
